@@ -2,8 +2,8 @@
 
 ### Getting setup
 
-git clone https://github.com/yourusername/vite-project.git
-cd vite-project
+git clone https://github.com/mnield84/occtoo-infinite-scroll
+cd occtoo-infinite-scroll
 
 1. In a terminal type `npm install`
 2. Wait a couple of minutes for everything to download
